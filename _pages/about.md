@@ -16,4 +16,5 @@ Yizhou Huang obtained Ph.D. degree in Electronic and Computer Science from Brune
 ---
 News
 ======
+
 **[2025-02]** 🔥 “Trajectory-Mamba: An Efficient Attention-Mamba Forecasting Model Based on Selective SSM” is accepted to CVPR 2025.
