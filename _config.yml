@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "Yizhou Huang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yizhou Huang"
 description              : &description "personal description"
@@ -263,19 +263,19 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
+ # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
+ # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
