@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yizhou Huang personal page"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
