@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Yizhou Huang is a Research Fellow at the Brunel University of London. His interest including computer version, intelligence transportation, autonomous driving and large language model. His research focus on agent path planning, road recommendation system and road cost impact.
+Yizhou Huang is a Research Fellow at the Brunel University of London. His research interest including computer version, intelligence transportation, autonomous driving and large language model. His research focus on agent path planning, road recommendation system and road cost impact.
 
 Yizhou Huang has published his research findings on top-tier high-quality papers in top-tier venues, including CVPR. He serves as a reviewer for IEEE Transactions on Vehicle Technology.
 
